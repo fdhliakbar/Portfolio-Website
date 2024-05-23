@@ -322,10 +322,14 @@ section {
 
 .experience-sub-title {
   color: rgb(85, 85, 85);
-  font-weight: 600;
-  font-size: 1.75rem;
+  /* font-weight: 600;
+  font-size: 1.75rem; */
   margin-bottom: 2rem;
 }
+
+/* .experience-sub-title p {
+  font-size: 14px;
+} */
 
 .experience-details-container {
   display: flex;
@@ -425,7 +429,6 @@ article .icon {
 footer {
   height: 26vh;
   margin: 0 1rem;
-  background-color: gray;
 }
 
 footer p {
