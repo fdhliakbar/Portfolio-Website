@@ -51,11 +51,15 @@
   #contact,
   footer {
     height: 40vh;
+    gap: 0;
+    display: flex;
+    justify-content: center;
   }
   #profile {
     height: 83vh;
     margin-bottom: 0;
   }
+
   article {
     font-size: 1rem;
   }
